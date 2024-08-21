@@ -18,3 +18,5 @@ public class latihan_soal_alattulis {
 
     }
 }
+
+// Melihat beberapa referensi dari stackoverflow dan AI

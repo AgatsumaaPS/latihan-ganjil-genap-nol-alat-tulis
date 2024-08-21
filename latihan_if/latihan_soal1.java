@@ -17,4 +17,5 @@ public class latihan_soal1 {
     }
     scanner.close();
 }
-}
+
+// Melihat beberapa refernsi dari StackOverflow 
